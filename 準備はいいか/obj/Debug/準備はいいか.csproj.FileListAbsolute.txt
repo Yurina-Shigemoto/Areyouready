@@ -1,0 +1,10 @@
+C:\Users\shigemotoy\OneDrive - 新明工業株式会社\デスクトップ\新しいフォルダー\勤務表\準備はいいか\準備はいいか\bin\Debug\準備はいいか.exe.config
+C:\Users\shigemotoy\OneDrive - 新明工業株式会社\デスクトップ\新しいフォルダー\勤務表\準備はいいか\準備はいいか\bin\Debug\準備はいいか.exe
+C:\Users\shigemotoy\OneDrive - 新明工業株式会社\デスクトップ\新しいフォルダー\勤務表\準備はいいか\準備はいいか\bin\Debug\準備はいいか.pdb
+C:\Users\shigemotoy\OneDrive - 新明工業株式会社\デスクトップ\新しいフォルダー\勤務表\準備はいいか\準備はいいか\obj\Debug\準備はいいか.csproj.AssemblyReference.cache
+C:\Users\shigemotoy\OneDrive - 新明工業株式会社\デスクトップ\新しいフォルダー\勤務表\準備はいいか\準備はいいか\obj\Debug\準備はいいか.Form1.resources
+C:\Users\shigemotoy\OneDrive - 新明工業株式会社\デスクトップ\新しいフォルダー\勤務表\準備はいいか\準備はいいか\obj\Debug\準備はいいか.Properties.Resources.resources
+C:\Users\shigemotoy\OneDrive - 新明工業株式会社\デスクトップ\新しいフォルダー\勤務表\準備はいいか\準備はいいか\obj\Debug\準備はいいか.csproj.GenerateResource.cache
+C:\Users\shigemotoy\OneDrive - 新明工業株式会社\デスクトップ\新しいフォルダー\勤務表\準備はいいか\準備はいいか\obj\Debug\準備はいいか.csproj.CoreCompileInputs.cache
+C:\Users\shigemotoy\OneDrive - 新明工業株式会社\デスクトップ\新しいフォルダー\勤務表\準備はいいか\準備はいいか\obj\Debug\準備はいいか.exe
+C:\Users\shigemotoy\OneDrive - 新明工業株式会社\デスクトップ\新しいフォルダー\勤務表\準備はいいか\準備はいいか\obj\Debug\準備はいいか.pdb
